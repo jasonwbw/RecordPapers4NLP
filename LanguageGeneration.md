@@ -6,7 +6,7 @@ To learn more about self-attention mechanism, you could read "[A Structured Self
 
 # NRG (Neural Response Generation)
 
-Neural Responding Machine for Short-Text Conversation [paper](https://arxiv.org/pdf/1503.02364.pdf)
+- Neural Responding Machine for Short-Text Conversation [paper](https://arxiv.org/pdf/1503.02364.pdf)
 
 ## With knowledge
 - Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [paper](https://arxiv.org/pdf/1704.01074.pdf)
