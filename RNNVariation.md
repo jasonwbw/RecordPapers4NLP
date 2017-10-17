@@ -1,5 +1,5 @@
 # Accelerate
-- Learning to Skim Text [paper](https://arxiv.org/pdf/1704.06877.pdf)  
+- Learning to Skim Text [paper appeared in ACL17](https://arxiv.org/pdf/1704.06877.pdf)  
 Read text by skip some words.  
 ~ use the RL to learn the best skip stragegy for the target, that   
 Action : jump  
