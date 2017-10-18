@@ -19,3 +19,7 @@ To learn more about self-attention mechanism, you could read "[A Structured Self
 ## Diversity
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation [paper](https://arxiv.org/pdf/1607.00970.pdf)
 - A Diversity-Promoting Objective Function for Neural Conversation Models [paper](https://arxiv.org/pdf/1510.03055v2.pdf)
+
+## GAN
+- Neural Response Generation via GAN with an Approximate Embedding Layer [[paper appeared in EMNLP17]](http://www.aclweb.org/anthology/D/D17/D17-1066.pdf)  
+Approximate (weighted averaged embedding by softmax) Embedding to solve the dispersion.
