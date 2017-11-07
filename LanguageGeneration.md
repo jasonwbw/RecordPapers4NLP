@@ -25,3 +25,9 @@ origin paper
 ## GAN
 - Neural Response Generation via GAN with an Approximate Embedding Layer [paper appeared in EMNLP17](http://www.aclweb.org/anthology/D/D17/D17-1066.pdf)  
 Approximate (weighted averaged embedding by softmax) Embedding to solve the dispersion.
+
+
+# Abstractive Summarization
+- Deep Recurrent Generative Decoder for Abstractive Text Summarization [paper appeared in EMNLP17](https://arxiv.org/pdf/1708.00625.pdf)
+- Get To The Point: Summarization with Pointer-Generator Networks [paper appeared in ACL17]()
+http://aclweb.org/anthology/P17-1099) / [official code](https://github.com/abisee/pointer-generator)
