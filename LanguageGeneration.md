@@ -32,3 +32,4 @@ Approximate (weighted averaged embedding by softmax) Embedding to solve the disp
 - Get To The Point: Summarization with Pointer-Generator Networks [paper appeared in ACL17](
 http://aclweb.org/anthology/P17-1099) / [official code](https://github.com/abisee/pointer-generator)
 - Selective Encoding for Abstractive Sentence Summarization [paper appeared in ACL17](http://aclweb.org/anthology/P/P17/P17-1101.pdf)
+- Controllable Abstractive Summarization [paper maybe for NAACL18](https://arxiv.org/pdf/1711.05217.pdf)
