@@ -1,12 +1,13 @@
 # Refs
 
 ## Dataset
-- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
+- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) / most popular, EMNLP best resource paper
 - [MARCO](http://www.msmarco.org/)
 - [NewsQA](https://datasets.maluuba.com/NewsQA)
 - [Quasar](https://github.com/bdhingra/quasar)
 - [RACE](http://www.cs.cmu.edu/~glai1/data/race/)
 - [CNN/Daily Mail](https://github.com/deepmind/rc-data/)
+- [DuReader](https://arxiv.org/pdf/1711.05073.pdf) / multi document for CQA
 
 ## Leadboards
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
