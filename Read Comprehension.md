@@ -15,8 +15,9 @@
 ## Reference
 
 ### Models
-- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-- [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798)
+- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf) / a fusion version of other networks
+- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) / 1. self att; 2. soft att
+- [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798) / 1. RL for F1; 2. feature rich; 3, memory answer pointer
 - [MEMEN](https://arxiv.org/abs/1707.09098)
 - [ReasoNet](https://arxiv.org/abs/1609.05284)
 - [Mnemonic Reader](https://arxiv.org/abs/1705.02798)
