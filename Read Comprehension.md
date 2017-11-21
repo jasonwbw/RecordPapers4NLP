@@ -16,9 +16,12 @@
 ## Reference
 
 ### Models
-- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf) / a fusion version of other networks
-- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) / 1. self att; 2. soft att
-- [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798) / 1. RL for F1; 2. feature rich; 3, memory answer pointer
+- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf)  
+a fusion version of other networks
+- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
+1. self att; 2. soft att
+- [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798)  
+1. RL for F1; 2. feature rich; 3, memory answer pointer
 - [MEMEN](https://arxiv.org/abs/1707.09098)
 - [ReasoNet](https://arxiv.org/abs/1609.05284)
 - [Mnemonic Reader](https://arxiv.org/abs/1705.02798)
@@ -32,6 +35,9 @@
 - [RaSoR](https://arxiv.org/abs/1611.01436)
 - [Fine-Grained Gating](https://arxiv.org/abs/1611.01724)
 - [Dynamic Chunk Reader](https://arxiv.org/abs/1610.09996)
+- Towards Human-level Machine Reading Comprehension: Reasoning and Inference with Multiple Strategies  
+datasets: RACE  
+multi step reasoning by update a Memory
 
 ### Tricks
 - [A Comparative Study of Word Embeddings for Reading Comprehension](https://arxiv.org/pdf/1703.00993.pdf)
