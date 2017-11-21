@@ -4,3 +4,4 @@
 http://aclweb.org/anthology/P17-1099) / [official code](https://github.com/abisee/pointer-generator)
 - Selective Encoding for Abstractive Sentence Summarization [paper appeared in ACL17](http://aclweb.org/anthology/P/P17/P17-1101.pdf)
 - Controllable Abstractive Summarization [paper maybe for NAACL18](https://arxiv.org/pdf/1711.05217.pdf)
+- Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization [paper](https://aclanthology.info/pdf/E/E17/E17-2047.pdf)
