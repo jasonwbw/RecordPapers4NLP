@@ -15,7 +15,24 @@ origin paper
 ## Diversity
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation [paper appeared in COLING16](https://arxiv.org/pdf/1607.00970.pdf)
 - A Diversity-Promoting Objective Function for Neural Conversation Models [paper appeared in NAACL16](https://arxiv.org/pdf/1510.03055v2.pdf)
+- Generating Long and Diverse Responses with Neural Conversation Models
+- A Simple, Fast Diverse Decoding Algorithm for Neural Generation
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+- Learning to Decode for Future Success
+
+## Beam Search Optimization 
+- Sequence-to-Sequence Learning as Beam-Search Optimization
+- Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
 
 ## GAN
 - Neural Response Generation via GAN with an Approximate Embedding Layer [paper appeared in EMNLP17](http://www.aclweb.org/anthology/D/D17/D17-1066.pdf)  
 Approximate (weighted averaged embedding by softmax) Embedding to solve the dispersion.
+
+## Data
+- A Survey of Available Corpora for Building Data-Driven Dialogue Systems
+- Improved Deep Learning Baselines for Ubuntu Corpus Dialogs
+
+## Metric
+- How NOT to evaluate your dialogue system: An empirical study of unsupervised evaluation metrics for dialogue response generation
+- Towards an automatic turing test: Learning to evaluate dialogue responses.
+- RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems
