@@ -16,6 +16,9 @@
 ## Reference
 
 ### Models
+- [SAN](https://arxiv.org/pdf/1712.03556.pdf)  
+Stochastic Answer Networks for Machine Reading Comprehension  
+1.join hidden states of previous reasoning steps
 - [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf)  
 a fusion version of other networks
 - [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
