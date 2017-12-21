@@ -15,21 +15,22 @@
 
 ## Reference
 
-### Models
+### Models for SQuAD
 - [SAN](https://arxiv.org/pdf/1712.03556.pdf)  
-Stochastic Answer Networks for Machine Reading Comprehension  
 1.join hidden states of previous reasoning steps
 - [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf)  
 a fusion version of other networks
+- [ELMo](https://arxiv.org/abs/1703.00572)  
+pretrained word embedding by LM, which is somewhat similar with Tricks [Learned in Translation ...]
 - [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
 1.self att; 2.soft att
 - [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798)  
 1.RL for F1; 2.feature rich; 3.memory answer pointer
 - [MEMEN](https://arxiv.org/abs/1707.09098)
 - [ReasoNet](https://arxiv.org/abs/1609.05284)
-- [Mnemonic Reader](https://arxiv.org/abs/1705.02798)
 - [SEDT](https://arxiv.org/abs/1703.00572)
-- [BiDAF](https://arxiv.org/abs/1611.01603) / [code](https://github.com/allenai/bi-att-flow)
+- [BiDAF](https://arxiv.org/abs/1611.01603) / [code](https://github.com/allenai/bi-att-flow)  
+1.(widely used) coopreation for question and contexts
 - [jNet](https://arxiv.org/abs/1703.04617)
 - [Multi-Perspective Matching](https://arxiv.org/abs/1612.04211)
 - [Dynamic Coattention Networks](https://arxiv.org/abs/1611.01604)
@@ -38,6 +39,8 @@ a fusion version of other networks
 - [RaSoR](https://arxiv.org/abs/1611.01436)
 - [Fine-Grained Gating](https://arxiv.org/abs/1611.01724)
 - [Dynamic Chunk Reader](https://arxiv.org/abs/1610.09996)
+
+### Models for others
 - Towards Human-level Machine Reading Comprehension: Reasoning and Inference with Multiple Strategies  
 datasets: RACE  
 multi step reasoning by update a Memory
