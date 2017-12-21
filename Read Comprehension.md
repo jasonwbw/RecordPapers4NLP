@@ -41,7 +41,7 @@ pretrained word embedding by LM, which is somewhat similar with Tricks [Learned 
 - [Dynamic Chunk Reader](https://arxiv.org/abs/1610.09996)
 
 ### Models for others
-- Towards Human-level Machine Reading Comprehension: Reasoning and Inference with Multiple Strategies  
+- [Towards Human-level Machine Reading Comprehension: Reasoning and Inference with Multiple Strategies](https://arxiv.org/pdf/1711.04964.pdf)  
 datasets: RACE  
 multi step reasoning by update a Memory
 
