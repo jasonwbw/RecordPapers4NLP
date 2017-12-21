@@ -20,7 +20,7 @@
 1.join hidden states of previous reasoning steps
 - [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf)  
 a fusion version of other networks
-- [ELMo](https://arxiv.org/abs/1703.00572)  
+- [ELMo](https://openreview.net/pdf?id=S1p31z-Ab)  
 pretrained word embedding by LM, which is somewhat similar with Tricks [Learned in Translation ...]
 - [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
 1.self att; 2.soft att
