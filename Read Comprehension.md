@@ -32,7 +32,7 @@ pretrained word embedding by LM, which is somewhat similar with Tricks [Learned 
 - [BiDAF](https://arxiv.org/abs/1611.01603) / [code](https://github.com/allenai/bi-att-flow)  
 1.(widely used) coopreation for question and contexts
 - [BiDAF + self attention](https://arxiv.org/pdf/1710.10723.pdf)  
-1. self attention with simplified BiDAF; 2. new data; 3. vairous comparision about diff functions 
+1.self attention with simplified BiDAF; 2.new data; 3.vairous comparision about diff functions
 - [jNet](https://arxiv.org/abs/1703.04617)
 - [Multi-Perspective Matching](https://arxiv.org/abs/1612.04211)
 - [Dynamic Coattention Networks](https://arxiv.org/abs/1611.01604)
