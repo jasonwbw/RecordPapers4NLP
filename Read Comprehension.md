@@ -8,10 +8,12 @@
 - [RACE](http://www.cs.cmu.edu/~glai1/data/race/)
 - [CNN/Daily Mail](https://github.com/deepmind/rc-data/)
 - [DuReader](https://arxiv.org/pdf/1711.05073.pdf) / multi document for CQA
+- [SQuAD: Adversarial Examples](https://arxiv.org/pdf/1707.07328.pdf)
 
 ## Leadboards
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
 - [MARCO](http://www.msmarco.org/leaders.aspx)
+- [DuReader](http://ai.baidu.com/broad/leaderboard?dataset=dureader)
 
 ## Reference
 
@@ -41,6 +43,10 @@ pretrained word embedding by LM, which is somewhat similar with Tricks [Learned 
 - [RaSoR](https://arxiv.org/abs/1611.01436)
 - [Fine-Grained Gating](https://arxiv.org/abs/1611.01724)
 - [Dynamic Chunk Reader](https://arxiv.org/abs/1610.09996)
+- [Conductor-net](https://arxiv.org/pdf/1710.10504.pdf)
+- [RaSoR + TR + LM](https://arxiv.org/pdf/1710.10504.pdf)  
+(have report results on adversarial SQuAD)
+- [Smartnet](https://arxiv.org/pdf/1710.02772.pdf)
 
 ### Models for others
 - [Towards Human-level Machine Reading Comprehension: Reasoning and Inference with Multiple Strategies](https://arxiv.org/pdf/1711.04964.pdf)  
