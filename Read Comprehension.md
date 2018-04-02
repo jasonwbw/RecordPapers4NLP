@@ -20,11 +20,11 @@
 ### Models for SQuAD
 - [SAN](https://arxiv.org/pdf/1712.03556.pdf)  
 1.join hidden states of previous reasoning steps
-- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf)  
+- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf) / [code](https://github.com/momohuang/FusionNet-NLI)  
 a fusion version of other networks
 - [ELMo](https://openreview.net/pdf?id=S1p31z-Ab)  
 pretrained word embedding by LM, which is somewhat similar with Tricks [Learned in Translation ...]
-- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
+- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) / [reproduce code](https://github.com/HKUST-KnowComp/R-Net)  
 1.self att; 2.soft att
 - [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798)  
 1.RL for F1; 2.feature rich; 3.memory answer pointer
