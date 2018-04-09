@@ -17,7 +17,7 @@
 
 ## Reference
 
-### Models for SQuAD
+### E2E Models for SQuAD
 - [SAN](https://arxiv.org/pdf/1712.03556.pdf)  
 1.join hidden states of previous reasoning steps
 - [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf) / [code](https://github.com/momohuang/FusionNet-NLI)  
@@ -25,9 +25,12 @@ a fusion version of other networks
 - [ELMo](https://openreview.net/pdf?id=S1p31z-Ab)  
 pretrained word embedding by LM, which is somewhat similar with Tricks [Learned in Translation ...]
 - [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) / [reproduce code](https://github.com/HKUST-KnowComp/R-Net)  
-1.self att; 2.soft att
+1.self att;  
+2.soft att
 - [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798)  
-1.RL for F1; 2.feature rich; 3.memory answer pointer
+1.RL for F1;  
+2.feature rich;  
+3.memory answer pointer  
 - [MEMEN](https://arxiv.org/abs/1707.09098)
 - [ReasoNet](https://arxiv.org/abs/1609.05284)
 - [SEDT](https://arxiv.org/abs/1703.00572)
@@ -48,7 +51,13 @@ pretrained word embedding by LM, which is somewhat similar with Tricks [Learned 
 (have report results on adversarial SQuAD)
 - [Smartnet](https://arxiv.org/pdf/1710.02772.pdf)
 
-### Models for others
+### Non-E2E Models
+- [Globally Normalized Reader](http://aclweb.org/anthology/D17-1111) / [code](https://github.com/baidu-research/GloballyNormalizedReader)  
+1.Three stage model include sentence selection, start prediction, end prediction  
+2.Data augmentation (as the model runs faster, the authors replace the NEs to generate more data)
+
+
+### Models for others dataset
 - [Towards Human-level Machine Reading Comprehension: Reasoning and Inference with Multiple Strategies](https://arxiv.org/pdf/1711.04964.pdf)  
 datasets: RACE  
 multi step reasoning by update a Memory
