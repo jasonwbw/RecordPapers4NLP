@@ -3,13 +3,20 @@
 ### Leadboard according to the papers and offincal implementations
 Model | EM | F1 | code | paper |
 :----:|:--:|:--:|:----:|:-----:|
-Globally Normalized Reader | 66.6 | 75.0 | [code](https://github.com/baidu-research/GloballyNormalizedReader) | [paper](https://www.aclweb.org/anthology/D17-1111) |
-BiDAF | 68.0 | 77.3 | [code](https://github.com/allenai/bi-att-flow) | [paper](https://arxiv.org/abs/1611.01603) |
+Globally Normalized Reader | 66.6 | 75.0 | [Tensorflow](https://github.com/baidu-research/GloballyNormalizedReader) | [paper](https://www.aclweb.org/anthology/D17-1111) |
+BiDAF | 68.0 | 77.3 | [Tensorflow](https://github.com/allenai/bi-att-flow) | [paper](https://arxiv.org/abs/1611.01603) |
+SEDT | 68.5 | 78.0 | | [paper](https://arxiv.org/pdf/1703.00572.pdf) |
+ReasoNet | 69.1 | 78.9 | [CNTK](https://github.com/Microsoft/CNTK/tree/penhe/reasonet_tutorial/Examples/LanguageUnderstanding/ReasoNet) | [paper](https://arxiv.org/pdf/1609.05284.pdf) |
 RNET1 | 71.1 | 79.5 | | [paper](http://www.aclweb.org/anthology/P17-1018) |
+Smartnet | 71.4 | 80.2 | | [paper](https://arxiv.org/pdf/1710.02772.pdf) |
 RNET2 | 72.3 | 80.6 | | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) |
-BiDAF + selfatt | 72.1 | 81.1 | [code](github.com/allenai/document-qa) | [paper](https://arxiv.org/pdf/1710.10723.pdf)
-MneReader | 71.8 | 81.2 | | [paper](https://arxiv.org/abs/1705.02798)
-FusionNet | 76.0 | 83.9 | [code](https://github.com/momohuang/FusionNet-NLI) | [paper](https://arxiv.org/pdf/1711.07341.pdf)
+BiDAF + selfatt | 72.1 | 81.1 | [Tensorflow](github.com/allenai/document-qa) | [paper](https://arxiv.org/pdf/1710.10723.pdf) |
+MneReader | 71.8 | 81.2 | | [paper](https://arxiv.org/abs/1705.02798) |
+PhaseCond | 72.1 | 81.4 | | [paper](https://arxiv.org/pdf/1710.10504.pdf) |
+Document Reader | 73.6 | 82.7 | [Pytorch](https://github.com/facebookresearch/DrQA) | [paper](https://arxiv.org/pdf/1704.00051.pdf) |
+MEMEN     | 75.4 | 82.7 | | [paper](https://arxiv.org/pdf/1707.09098.pdf) |
+FusionNet | 76.0 | 83.9 | [Pytorch](https://github.com/momohuang/FusionNet-NLI) | [paper](https://arxiv.org/pdf/1711.07341.pdf) |
+RaSoR + TR + LM | 77.6 | 84.2 | | [paper](https://arxiv.org/pdf/1712.03609.pdf) |
 
 ### None original Implementations (may without offical code)
 Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
@@ -41,11 +48,11 @@ ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 /
 ### E2E Models for SQuAD and summrized contributions
 - [SAN](https://arxiv.org/pdf/1712.03556.pdf)  
 1.join hidden states of previous reasoning steps
-- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf) / [code](https://github.com/momohuang/FusionNet-NLI)  
+- [FUSIONNET](https://arxiv.org/pdf/1711.07341.pdf)  
 1.a fusion version of other networks
 - [ELMo](https://openreview.net/pdf?id=S1p31z-Ab)  
 1.pretrained word embedding by LM, which is somewhat similar with Tricks [Learned in Translation ...]
-- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) / [reproduce code](https://github.com/HKUST-KnowComp/R-Net)  
+- [R-Net](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
 1.self att;  
 2.soft att
 - [Reinforced Mnemonic Reader](https://arxiv.org/abs/1705.02798)  
@@ -55,7 +62,7 @@ ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 /
 - [MEMEN](https://arxiv.org/abs/1707.09098)
 - [ReasoNet](https://arxiv.org/abs/1609.05284)
 - [SEDT](https://arxiv.org/abs/1703.00572)
-- [BiDAF](https://arxiv.org/abs/1611.01603) / [code](https://github.com/allenai/bi-att-flow)  
+- [BiDAF](https://arxiv.org/abs/1611.01603)  
 1.(widely used) coopreation for question and contexts
 - [BiDAF + self attention](https://arxiv.org/pdf/1710.10723.pdf)  
 1.self attention with simplified BiDAF;  
@@ -70,10 +77,10 @@ ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 /
 - [Fine-Grained Gating](https://arxiv.org/abs/1611.01724)
 - [Dynamic Chunk Reader](https://arxiv.org/abs/1610.09996)
 - [Conductor-net](https://arxiv.org/pdf/1710.10504.pdf)
-- [RaSoR + TR + LM](https://arxiv.org/pdf/1710.10504.pdf)  
+- [RaSoR + TR + LM](https://arxiv.org/pdf/1712.03609.pdf)  
 (have report results on adversarial SQuAD)
 - [Smartnet](https://arxiv.org/pdf/1710.02772.pdf)
-- [Globally Normalized Reader](https://www.aclweb.org/anthology/D17-1111) / [offical code](https://github.com/baidu-research/GloballyNormalizedReader)
+- [Globally Normalized Reader](https://www.aclweb.org/anthology/D17-1111)
 1.A three step model non E2E (sentence selection, begin pred, end pred)
 
 ### Non-E2E Models
