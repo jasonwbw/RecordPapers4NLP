@@ -1,6 +1,17 @@
 # Implementations
 
-## None original Implementations (may without offical code)
+### Leadboard according to the papers and offincal implementations
+Model | EM | F1 | code | paper |
+:----:|:--:|:--:|:----:|:-----:|
+Globally Normalized Reader | 66.6 | 75.0 | [code](https://github.com/baidu-research/GloballyNormalizedReader) | [paper](https://www.aclweb.org/anthology/D17-1111) |
+BiDAF | 68.0 | 77.3 | [code](https://github.com/allenai/bi-att-flow) | [paper](https://arxiv.org/abs/1611.01603) |
+RNET1 | 71.1 | 79.5 | | [paper](http://www.aclweb.org/anthology/P17-1018) |
+RNET2 | 72.3 | 80.6 | | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) |
+BiDAF + selfatt | 72.1 | 81.1 | [code](github.com/allenai/document-qa) | [paper](https://arxiv.org/pdf/1710.10723.pdf)
+MneReader | 71.8 | 81.2 | | [paper](https://arxiv.org/abs/1705.02798)
+FusionNet | 76.0 | 83.9 | [code](https://github.com/momohuang/FusionNet-NLI) | [paper](https://arxiv.org/pdf/1711.07341.pdf)
+
+### None original Implementations (may without offical code)
 Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
 -----------|:----:|:---------:|:-----:|:---------------:|:---------:|
 ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 / 
