@@ -1,3 +1,13 @@
+# Implementations
+
+## None original Implementations (may without offical code)
+Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
+-----------|:----:|:---------:|:-----:|:---------------:|:---------:|
+ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 / 
+[Pytorch](https://github.com/minsangkim142/QANet) | X | X | 70.0/79.4 | X | X | X |
+[Pytorch](https://github.com/HKUST-KnowComp/MnemonicReader) | 70.2/79.2 | 72.3/81.4 | X | X | 69.4/78.6 | X |
+[TF](https://github.com/HKUST-KnowComp/R-Net) | 71.1/79.5 | X | X | X | X | X |
+
 # Refs
 
 ## Dataset
@@ -75,11 +85,3 @@ multi step reasoning by update a Memory
 
 ### Slot-filling
 - [Zero-Shot Relation Extraction via Reading Comprehension](https://arxiv.org/pdf/1706.04115.pdf)
-
-### None original Implementations (may without offical code)
-Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
------------|:----:|:---------:|:-----:|:---------------:|:---------:|
-ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 / 
-[Pytorch](https://github.com/minsangkim142/QANet) | X | X | 70.0/79.4 | X | X | X |
-[Pytorch](https://github.com/HKUST-KnowComp/MnemonicReader) | 70.2/79.2 | 72.3/81.4 | X | X | 69.4/78.6 | X |
-[TF](https://github.com/HKUST-KnowComp/R-Net) | 71.1/79.5 | X | X | X | X | X |
