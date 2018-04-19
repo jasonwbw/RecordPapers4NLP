@@ -4,9 +4,13 @@
 Model | EM | F1 | code | paper |
 :----:|:--:|:--:|:----:|:-----:|
 Globally Normalized Reader | 66.6 | 75.0 | [Tensorflow](https://github.com/baidu-research/GloballyNormalizedReader) | [EMNLP17](https://www.aclweb.org/anthology/D17-1111) |
+MPCM | 65.5 | 75.1 | | [arxiv-16](https://arxiv.org/pdf/1612.04211.pdf) |
+RASOR| 67.4 | 75.5 | | [arxiv-16](https://arxiv.org/pdf/1611.01436.pdf)
+DCN  | 66.2 | 75.9 | | [ICLR17](https://arxiv.org/pdf/1611.01604.pdf) |
 BiDAF | 68.0 | 77.3 | [Tensorflow](https://github.com/allenai/bi-att-flow) | [ICLR17](https://arxiv.org/abs/1611.01603) |
 SEDT | 68.5 | 78.0 | | [EMNLP17](https://arxiv.org/pdf/1703.00572.pdf) |
 Document Reader | 69.5 | 78.8 | [Pytorch](https://github.com/facebookresearch/DrQA) | [ACL17](https://arxiv.org/pdf/1704.00051.pdf) |
+FastQAExt | 70.8 | 78.9 |  | [CoNLL17](https://arxiv.org/pdf/1703.04816.pdf) |
 ReasoNet | 69.1 | 78.9 | [CNTK](https://github.com/Microsoft/CNTK/tree/penhe/reasonet_tutorial/Examples/LanguageUnderstanding/ReasoNet) | [SIGKDD17](https://arxiv.org/pdf/1609.05284.pdf) |
 RNET1 | 71.1 | 79.5 | | [ACL17](http://www.aclweb.org/anthology/P17-1018) |
 Smartnet | 71.4 | 80.2 | | [arxiv-17](https://arxiv.org/pdf/1710.02772.pdf) |
