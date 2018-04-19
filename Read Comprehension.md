@@ -1,11 +1,12 @@
 # Implementations
 
-### Leadboard according to the papers and offincal implementations
+### Leadboard according to the papers and offincal implementations (sorted by F1)
 Model | EM | F1 | code | paper |
 :----:|:--:|:--:|:----:|:-----:|
 Globally Normalized Reader | 66.6 | 75.0 | [Tensorflow](https://github.com/baidu-research/GloballyNormalizedReader) | [EMNLP17](https://www.aclweb.org/anthology/D17-1111) |
 BiDAF | 68.0 | 77.3 | [Tensorflow](https://github.com/allenai/bi-att-flow) | [ICLR17](https://arxiv.org/abs/1611.01603) |
 SEDT | 68.5 | 78.0 | | [EMNLP17](https://arxiv.org/pdf/1703.00572.pdf) |
+Document Reader | 69.5 | 78.8 | [Pytorch](https://github.com/facebookresearch/DrQA) | [ACL17](https://arxiv.org/pdf/1704.00051.pdf) |
 ReasoNet | 69.1 | 78.9 | [CNTK](https://github.com/Microsoft/CNTK/tree/penhe/reasonet_tutorial/Examples/LanguageUnderstanding/ReasoNet) | [SIGKDD17](https://arxiv.org/pdf/1609.05284.pdf) |
 RNET1 | 71.1 | 79.5 | | [ACL17](http://www.aclweb.org/anthology/P17-1018) |
 Smartnet | 71.4 | 80.2 | | [arxiv-17](https://arxiv.org/pdf/1710.02772.pdf) |
@@ -13,7 +14,6 @@ RNET2 | 72.3 | 80.6 | | [MS share](https://www.microsoft.com/en-us/research/wp-c
 BiDAF + selfatt | 72.1 | 81.1 | [Tensorflow](github.com/allenai/document-qa) | [arxiv-17](https://arxiv.org/pdf/1710.10723.pdf) |
 MneReader | 71.8 | 81.2 | | [arxiv-17](https://arxiv.org/abs/1705.02798) |
 PhaseCond | 72.1 | 81.4 | | [arxiv-17](https://arxiv.org/pdf/1710.10504.pdf) |
-Document Reader | 73.6 | 82.7 | [Pytorch](https://github.com/facebookresearch/DrQA) | [ACL17](https://arxiv.org/pdf/1704.00051.pdf) |
 MEMEN     | 75.4 | 82.7 | | [arxiv-17](https://arxiv.org/pdf/1707.09098.pdf) |
 QANet     | 73.6 | 82.7 | | [ICLR18](https://openreview.net/pdf?id=B14TlG-RW)
 FusionNet | 76.0 | 83.9 | [Pytorch](https://github.com/momohuang/FusionNet-NLI) | [ICLR18](https://arxiv.org/pdf/1711.07341.pdf) |
@@ -22,10 +22,10 @@ RaSoR + TR + LM | 77.6 | 84.2 | | [arxiv-17](https://arxiv.org/pdf/1712.03609.pd
 ### None original Implementations (may without offical code)
 Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
 -----------|:----:|:---------:|:-----:|:---------------:|:---------:|
-ML Results in paper | 72.3/80.6 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 / 
-[Pytorch](https://github.com/minsangkim142/QANet) | X | X | 70.0/79.4 | X | X | X |
-[Pytorch](https://github.com/HKUST-KnowComp/MnemonicReader) | 70.2/79.2 | 72.3/81.4 | X | X | 69.4/78.6 | X |
-[TF](https://github.com/HKUST-KnowComp/R-Net) | 71.1/79.5 | X | X | X | X | X |
+ML Results in paper | 71.1/79.5 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 | 76.0/83.9 |
+[Pytorch](https://github.com/minsangkim142/QANet) | X | X | -3.6/-3.3 | X | X |
+[Pytorch](https://github.com/HKUST-KnowComp/MnemonicReader) | -0.9/-0.3 | +0.5/+0.2 | X | -0.1/-0.2 | X |
+[TensorFlow](https://github.com/HKUST-KnowComp/R-Net) | -/- | X | X | X | X |
 
 # Refs
 
