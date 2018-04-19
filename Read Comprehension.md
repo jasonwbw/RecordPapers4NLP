@@ -85,8 +85,6 @@ ML Results in paper | 71.1/79.5 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 | 76.0/83.9 
 - [RaSoR + TR + LM](https://arxiv.org/pdf/1712.03609.pdf)  
 (have report results on adversarial SQuAD)
 - [Smartnet](https://arxiv.org/pdf/1710.02772.pdf)
-- [Globally Normalized Reader](https://www.aclweb.org/anthology/D17-1111)
-1.A three step model non E2E (sentence selection, begin pred, end pred)
 
 ### Non-E2E Models
 - [Globally Normalized Reader](http://aclweb.org/anthology/D17-1111) / [code](https://github.com/baidu-research/GloballyNormalizedReader)  
