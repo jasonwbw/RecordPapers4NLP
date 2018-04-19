@@ -3,20 +3,21 @@
 ### Leadboard according to the papers and offincal implementations
 Model | EM | F1 | code | paper |
 :----:|:--:|:--:|:----:|:-----:|
-Globally Normalized Reader | 66.6 | 75.0 | [Tensorflow](https://github.com/baidu-research/GloballyNormalizedReader) | [paper](https://www.aclweb.org/anthology/D17-1111) |
-BiDAF | 68.0 | 77.3 | [Tensorflow](https://github.com/allenai/bi-att-flow) | [paper](https://arxiv.org/abs/1611.01603) |
-SEDT | 68.5 | 78.0 | | [paper](https://arxiv.org/pdf/1703.00572.pdf) |
-ReasoNet | 69.1 | 78.9 | [CNTK](https://github.com/Microsoft/CNTK/tree/penhe/reasonet_tutorial/Examples/LanguageUnderstanding/ReasoNet) | [paper](https://arxiv.org/pdf/1609.05284.pdf) |
-RNET1 | 71.1 | 79.5 | | [paper](http://www.aclweb.org/anthology/P17-1018) |
-Smartnet | 71.4 | 80.2 | | [paper](https://arxiv.org/pdf/1710.02772.pdf) |
-RNET2 | 72.3 | 80.6 | | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) |
-BiDAF + selfatt | 72.1 | 81.1 | [Tensorflow](github.com/allenai/document-qa) | [paper](https://arxiv.org/pdf/1710.10723.pdf) |
-MneReader | 71.8 | 81.2 | | [paper](https://arxiv.org/abs/1705.02798) |
-PhaseCond | 72.1 | 81.4 | | [paper](https://arxiv.org/pdf/1710.10504.pdf) |
-Document Reader | 73.6 | 82.7 | [Pytorch](https://github.com/facebookresearch/DrQA) | [paper](https://arxiv.org/pdf/1704.00051.pdf) |
-MEMEN     | 75.4 | 82.7 | | [paper](https://arxiv.org/pdf/1707.09098.pdf) |
-FusionNet | 76.0 | 83.9 | [Pytorch](https://github.com/momohuang/FusionNet-NLI) | [paper](https://arxiv.org/pdf/1711.07341.pdf) |
-RaSoR + TR + LM | 77.6 | 84.2 | | [paper](https://arxiv.org/pdf/1712.03609.pdf) |
+Globally Normalized Reader | 66.6 | 75.0 | [Tensorflow](https://github.com/baidu-research/GloballyNormalizedReader) | [EMNLP17](https://www.aclweb.org/anthology/D17-1111) |
+BiDAF | 68.0 | 77.3 | [Tensorflow](https://github.com/allenai/bi-att-flow) | [ICLR17](https://arxiv.org/abs/1611.01603) |
+SEDT | 68.5 | 78.0 | | [EMNLP17](https://arxiv.org/pdf/1703.00572.pdf) |
+ReasoNet | 69.1 | 78.9 | [CNTK](https://github.com/Microsoft/CNTK/tree/penhe/reasonet_tutorial/Examples/LanguageUnderstanding/ReasoNet) | [SIGKDD17](https://arxiv.org/pdf/1609.05284.pdf) |
+RNET1 | 71.1 | 79.5 | | [ACL17](http://www.aclweb.org/anthology/P17-1018) |
+Smartnet | 71.4 | 80.2 | | [arxiv-17](https://arxiv.org/pdf/1710.02772.pdf) |
+RNET2 | 72.3 | 80.6 | | [MS share](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) |
+BiDAF + selfatt | 72.1 | 81.1 | [Tensorflow](github.com/allenai/document-qa) | [arxiv-17](https://arxiv.org/pdf/1710.10723.pdf) |
+MneReader | 71.8 | 81.2 | | [arxiv-17](https://arxiv.org/abs/1705.02798) |
+PhaseCond | 72.1 | 81.4 | | [arxiv-17](https://arxiv.org/pdf/1710.10504.pdf) |
+Document Reader | 73.6 | 82.7 | [Pytorch](https://github.com/facebookresearch/DrQA) | [ACL17](https://arxiv.org/pdf/1704.00051.pdf) |
+MEMEN     | 75.4 | 82.7 | | [arxiv-17](https://arxiv.org/pdf/1707.09098.pdf) |
+QANet     | 73.6 | 82.7 | | [ICLR18](https://openreview.net/pdf?id=B14TlG-RW)
+FusionNet | 76.0 | 83.9 | [Pytorch](https://github.com/momohuang/FusionNet-NLI) | [ICLR18](https://arxiv.org/pdf/1711.07341.pdf) |
+RaSoR + TR + LM | 77.6 | 84.2 | | [arxiv-17](https://arxiv.org/pdf/1712.03609.pdf) |
 
 ### None original Implementations (may without offical code)
 Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
