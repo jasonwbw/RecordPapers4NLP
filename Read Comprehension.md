@@ -16,12 +16,14 @@ RNET1 | 71.1 | 79.5 | | [ACL17](http://www.aclweb.org/anthology/P17-1018) |
 Smartnet | 71.4 | 80.2 | | [arxiv-17](https://arxiv.org/pdf/1710.02772.pdf) |
 RNET2 | 72.3 | 80.6 | | [MS share](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) |
 BiDAF + selfatt | 72.1 | 81.1 | [Tensorflow](github.com/allenai/document-qa) | [arxiv-17](https://arxiv.org/pdf/1710.10723.pdf) |
-MneReader | 71.8 | 81.2 | | [arxiv-17](https://arxiv.org/abs/1705.02798) |
+MneReader | 71.8 | 81.2 | | [arxiv-17](https://arxiv.org/abs/1705.02798v3) |
 PhaseCond | 72.1 | 81.4 | | [arxiv-17](https://arxiv.org/pdf/1710.10504.pdf) |
 MEMEN     | 75.4 | 82.7 | | [arxiv-17](https://arxiv.org/pdf/1707.09098.pdf) |
 QANet     | 73.6 | 82.7 | | [ICLR18](https://openreview.net/pdf?id=B14TlG-RW)
 FusionNet | 76.0 | 83.9 | [Pytorch](https://github.com/momohuang/FusionNet-NLI) | [ICLR18](https://arxiv.org/pdf/1711.07341.pdf) |
 RaSoR + TR + LM | 77.6 | 84.2 | | [arxiv-17](https://arxiv.org/pdf/1712.03609.pdf) |
+MneReaderV2 | 79.5 | 86.6 | | [IJCAI18](https://arxiv.org/abs/1705.02798v3 https://arxiv.org/pdf/1705.02798) |
+
 
 ### None original Implementations (may without offical code)
 Repository | RNET | MneReader | QANet | Document Reader | FusionNet |
