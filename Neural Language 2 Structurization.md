@@ -7,3 +7,4 @@
 ## RL
 - Nov 2017 / Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning [paper](
 https://arxiv.org/pdf/1709.00103.pdf) / [official data](https://github.com/salesforce/WikiSQL)
+- Apr 2018 / [ACL18] Semantic Parsing with Syntax- and Table-Aware SQL Generation [paper](https://arxiv.org/pdf/1804.08338.pdf)
