@@ -3,6 +3,7 @@
 ### Leadboard according to the papers and offincal implementations (sorted by F1)
 Model | EM | F1 | code | paper |
 :----:|:--:|:--:|:----:|:-----:|
+Match-LSTM with Ans-Ptr    | 60.5	| 70.7 | | [ICLR17](http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4656&context=sis_research) |
 Globally Normalized Reader | 66.6 | 75.0 | [Tensorflow](https://github.com/baidu-research/GloballyNormalizedReader) | [EMNLP17](https://www.aclweb.org/anthology/D17-1111) |
 MPCM | 65.5 | 75.1 | | [arxiv-16](https://arxiv.org/pdf/1612.04211.pdf) |
 RASOR| 67.4 | 75.5 | | [arxiv-16](https://arxiv.org/pdf/1611.01436.pdf)
