@@ -44,7 +44,6 @@ ML Results in paper | 71.1/79.5 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 | 76.0/83.9 
 - [RACE](http://www.cs.cmu.edu/~glai1/data/race/)
 - [CNN/Daily Mail](https://github.com/deepmind/rc-data/)
 - [DuReader](https://arxiv.org/pdf/1711.05073.pdf) / multi document for CQA
-- [SQuAD: Adversarial Examples](https://arxiv.org/pdf/1707.07328.pdf)
 
 ## Leadboards
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
@@ -111,3 +110,7 @@ multi step reasoning by update a Memory
 
 ### Slot-filling
 - [Zero-Shot Relation Extraction via Reading Comprehension](https://arxiv.org/pdf/1706.04115.pdf)
+
+### Adversarial 
+- [SQuAD: Adversarial Examples](https://arxiv.org/pdf/1707.07328.pdf)
+- [Robust Machine Comprehension Models via Adversarial Training](http://aclweb.org/anthology/N18-2091)
