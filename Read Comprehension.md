@@ -44,6 +44,7 @@ ML Results in paper | 71.1/79.5 | 71.8/81.2 | 73.6/82.7 | 69.5/78.8 | 76.0/83.9 
 - [RACE](http://www.cs.cmu.edu/~glai1/data/race/)
 - [CNN/Daily Mail](https://github.com/deepmind/rc-data/)
 - [DuReader](https://arxiv.org/pdf/1711.05073.pdf) / multi document for CQA
+- [NarrativeQA](https://arxiv.org/pdf/1712.07040.pdf) / QA within a book or story, and supporting a summary version (SQuAD like)
 
 ## Leadboards
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
