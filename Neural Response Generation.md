@@ -23,7 +23,9 @@ origin paper
 - A Prospective-Performance Network to Alleviate Myopia in Beam Search for Response Generation [COLING18](http://www.aclweb.org/anthology/C18-1306)
 - Neural Response Generation with Dynamic Vocabularies [AAAI18](https://arxiv.org/pdf/1711.11191.pdf)
 ### Latent
-- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+- (VHRED) A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+- A Conditional Variational Framework for Dialog Generation [ACL17](http://www.aclweb.org/anthology/P17-2080)
+- (CVAE) Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders [ACL17](http://www.aclweb.org/anthology/P17-1061)
 
 ## Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
