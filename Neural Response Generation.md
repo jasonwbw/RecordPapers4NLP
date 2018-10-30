@@ -36,6 +36,7 @@ Approximate (weighted averaged embedding by softmax) Embedding to solve the disp
 ## Data
 - A Survey of Available Corpora for Building Data-Driven Dialogue Systems
 - Improved Deep Learning Baselines for Ubuntu Corpus Dialogs
+- LSDSCC: A Large Scale Domain-Specific Conversational Corpus for Response Generation with Diversity Oriented Evaluation Metrics [NAACL18](http://www.aclweb.org/anthology/N18-1188)
 
 ## Metric
 - How NOT to evaluate your dialogue system: An empirical study of unsupervised evaluation metrics for dialogue response generation
