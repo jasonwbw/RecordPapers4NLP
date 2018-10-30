@@ -50,3 +50,4 @@ Approximate (weighted averaged embedding by softmax) Embedding to solve the disp
 ### Persona
 - A Persona-Based Neural Conversation Model [ACL16](https://arxiv.org/pdf/1603.06155.pdf)
 - Learning Personas from Dialogue with Attentive Memory Networks [EMNLP18](https://arxiv.org/pdf/1810.08717.pdf)
+- Exploring Personalized Neural Conversational Models [ICJAI17](http://www.xiaoyumu.com/s/PDF/IJCAI_2017.pdf)
