@@ -14,7 +14,7 @@ origin paper
 
 ## Diversity
 ### Inference
-- A Diversity-Promoting Objective Function for Neural Conversation Models NAACL16](https://arxiv.org/pdf/1510.03055v2.pdf)
+- A Diversity-Promoting Objective Function for Neural Conversation Models [NAACL16](https://arxiv.org/pdf/1510.03055v2.pdf)
 - Generating Long and Diverse Responses with Neural Conversation Models
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation
 ### Model
