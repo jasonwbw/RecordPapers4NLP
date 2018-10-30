@@ -13,14 +13,17 @@ origin paper
 - Deep Reinforcement Learning for Dialogue Generation [paper appeared in ACL16](https://arxiv.org/pdf/1606.01541.pdf)
 
 ## Diversity
-- Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation [paper appeared in COLING16](https://arxiv.org/pdf/1607.00970.pdf)
+### Inference
 - A Diversity-Promoting Objective Function for Neural Conversation Models [paper appeared in NAACL16](https://arxiv.org/pdf/1510.03055v2.pdf)
 - Generating Long and Diverse Responses with Neural Conversation Models
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation
-- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+### Model
+- Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation [paper appeared in COLING16](https://arxiv.org/pdf/1607.00970.pdf)
 - Learning to Decode for Future Success
-- Neural Response Generation with Dynamic Vocabularies [AAAI18](https://arxiv.org/pdf/1711.11191.pdf)
 - A Prospective-Performance Network to Alleviate Myopia in Beam Search for Response Generation [COLING18](http://www.aclweb.org/anthology/C18-1306)
+- Neural Response Generation with Dynamic Vocabularies [AAAI18](https://arxiv.org/pdf/1711.11191.pdf)
+### Latent
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
 
 ## Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
