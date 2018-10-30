@@ -19,6 +19,8 @@ origin paper
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation
 - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
 - Learning to Decode for Future Success
+- Neural Response Generation with Dynamic Vocabularies [AAAI18](https://arxiv.org/pdf/1711.11191.pdf)
+- A Prospective-Performance Network to Alleviate Myopia in Beam Search for Response Generation [COLING18](http://www.aclweb.org/anthology/C18-1306)
 
 ## Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
