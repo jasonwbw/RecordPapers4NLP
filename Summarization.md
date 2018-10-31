@@ -6,3 +6,4 @@ http://aclweb.org/anthology/P17-1099) / [official code](https://github.com/abise
 - Controllable Abstractive Summarization [paper maybe for NAACL18](https://arxiv.org/pdf/1711.05217.pdf)
 - Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization [paper](https://aclanthology.info/pdf/E/E17/E17-2047.pdf)
 - A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION [Paper](https://arxiv.org/pdf/1705.04304.pdf)
+- Iterative Document Representation Learning Towards Summarization with Polishing [EMNLP18](https://arxiv.org/abs/1809.10324) / [code](https://github.com/yingtaomj/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing)
