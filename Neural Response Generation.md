@@ -55,3 +55,5 @@ Approximate (weighted averaged embedding by softmax) Embedding to solve the disp
 - Learning Personas from Dialogue with Attentive Memory Networks [EMNLP18](https://arxiv.org/pdf/1810.08717.pdf)
 - Exploring Personalized Neural Conversational Models [ICJAI17](http://www.xiaoyumu.com/s/PDF/IJCAI_2017.pdf)
 - Content-Oriented User Modeling for Personalized Response Ranking in Chatbots [TASLP](https://dl.acm.org/citation.cfm?id=3180729)
+- Assigning Personality/Profile to a Chatting Machine for Coherent Conversation Generation [IJCAI18](https://www.ijcai.org/proceedings/2018/0595.pdf)  
+1.involve profile into NRG (attention)
