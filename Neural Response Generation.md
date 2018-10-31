@@ -34,6 +34,9 @@ origin paper
 - (VHRED) A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
 - A Conditional Variational Framework for Dialog Generation [ACL17](http://www.aclweb.org/anthology/P17-2080)
 - (CVAE) Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders [ACL17](http://www.aclweb.org/anthology/P17-1061)
+- Variational Autoregressive Decoder for Neural Response Generation [EMNLP18](http://www.aclweb.org/anthology/D18-1354)  
+1.increase the number of latent z from one to many;  
+2.involving SBOW(predict future words in the sequence) auxiliary to training z.
 
 ### Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
