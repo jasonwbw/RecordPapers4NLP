@@ -1,0 +1,2 @@
+- Sequence to Better Sequence: Continuous Revision of Combinatorial Structures [ICML17](http://proceedings.mlr.press/v70/mueller17a/mueller17a.pdf) / [code](https://bitbucket.org/jwmueller/sequence-to-better-sequence/src/master/)
+- QuaSE: Sequence Editing under Quantifiable Guidance [EMNLP18](https://arxiv.org/pdf/1804.07007.pdf) / [code](https://bitbucket.org/leoeaton/quase/src/master/)
