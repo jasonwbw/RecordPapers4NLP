@@ -30,6 +30,10 @@ origin paper
 - Learning to Decode for Future Success
 - A Prospective-Performance Network to Alleviate Myopia in Beam Search for Response Generation [COLING18](http://www.aclweb.org/anthology/C18-1306)
 - Neural Response Generation with Dynamic Vocabularies [AAAI18](https://arxiv.org/pdf/1711.11191.pdf)
+- Towards Less Generic Responses in Neural Conversation Models: A Statistical Re-weighting Method [EMNLP18](https://ai.tencent.com/ailab/nlp/papers/emnlp2018_conversation.pdf)  
+1.reweight by punish universal replies and short/long replies  
+2.use tfidf similar responses to compute the coverage of a response (UR)
+
 #### Latent
 - (VHRED) A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
 - A Conditional Variational Framework for Dialog Generation [ACL17](http://www.aclweb.org/anthology/P17-2080)
