@@ -25,6 +25,7 @@ origin paper
 - A Diversity-Promoting Objective Function for Neural Conversation Models [NAACL16](https://arxiv.org/pdf/1510.03055v2.pdf)
 - Generating Long and Diverse Responses with Neural Conversation Models
 - A Simple, Fast Diverse Decoding Algorithm for Neural Generation
+
 #### Model
 - Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation [COLING16](https://arxiv.org/pdf/1607.00970.pdf)
 - Learning to Decode for Future Success
@@ -41,6 +42,7 @@ origin paper
 - Variational Autoregressive Decoder for Neural Response Generation [EMNLP18](http://www.aclweb.org/anthology/D18-1354)  
 1.increase the number of latent z from one to many;  
 2.involving SBOW(predict future words in the sequence) auxiliary to training z.
+- Improving Variational Encoder-Decoders in Dialogue Generation [AAAI18](https://arxiv.org/pdf/1802.02032.pdf)  
 
 ### Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
