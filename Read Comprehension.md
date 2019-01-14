@@ -108,6 +108,8 @@ multi step reasoning by update a Memory
 ### Generation
 - [Learning to Ask: Neural Question Generation for Reading Comprehension](http://aclweb.org/anthology/P/P17/P17-1123.pdf)
 - [S-Net](https://arxiv.org/pdf/1706.04815.pdf)
+- [Multi-style Generative Reading Comprehension](https://arxiv.org/pdf/1901.02262.pdf)
+1.multi pointer-network  
 
 ### Slot-filling
 - [Zero-Shot Relation Extraction via Reading Comprehension](https://arxiv.org/pdf/1706.04115.pdf)
