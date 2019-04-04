@@ -46,6 +46,7 @@ origin paper
 - Improving Variational Encoder-Decoders in Dialogue Generation [AAAI18](https://arxiv.org/pdf/1802.02032.pdf)  
 1.add a auto-encoder stagey (DAE) coo-work with CVAE stagey like GAN (to learn a good posterior), feed x->z' and sample z with using z' to stand x in a CVAE model;  
 2.use a VAE/ecoder VAE/scheduled sampling to let the model consider more about the latent variable.
+- Topic-Guided Variational Autoencoders for Text Generation [arxiv](https://arxiv.org/pdf/1903.07137.pdf)  
 
 ### Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
