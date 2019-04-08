@@ -48,6 +48,9 @@ origin paper
 2.use a VAE/ecoder VAE/scheduled sampling to let the model consider more about the latent variable.
 - Topic-Guided Variational Autoencoders for Text Generation [arxiv](https://arxiv.org/pdf/1903.07137.pdf)  
 
+#### Analysis
+- Why are Sequence-to-Sequence Models So Dull? Understanding the Low-Diversity Problem of Chatbots [EMNLP18 workshop](https://arxiv.org/pdf/1701.06548.pdf)
+
 ### Beam Search Optimization 
 - Sequence-to-Sequence Learning as Beam-Search Optimization
 - Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
