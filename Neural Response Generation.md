@@ -47,6 +47,8 @@ origin paper
 1.add a auto-encoder stagey (DAE) coo-work with CVAE stagey like GAN (to learn a good posterior), feed x->z' and sample z with using z' to stand x in a CVAE model;  
 2.use a VAE/ecoder VAE/scheduled sampling to let the model consider more about the latent variable.
 - Topic-Guided Variational Autoencoders for Text Generation [arxiv](https://arxiv.org/pdf/1903.07137.pdf)  
+- A Semi-Supervised Stable Variational Network for Promoting Replier-Consistency in Dialogue Generation [EMNLP19](https://www.aclweb.org/anthology/D19-1200.pdf)  
+1.Von Mises-Fisher distribution
 
 #### Analysis
 - Why are Sequence-to-Sequence Models So Dull? Understanding the Low-Diversity Problem of Chatbots [EMNLP18 workshop](https://arxiv.org/pdf/1701.06548.pdf)
