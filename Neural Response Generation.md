@@ -49,6 +49,8 @@ origin paper
 - Topic-Guided Variational Autoencoders for Text Generation [arxiv](https://arxiv.org/pdf/1903.07137.pdf)  
 - A Semi-Supervised Stable Variational Network for Promoting Replier-Consistency in Dialogue Generation [EMNLP19](https://www.aclweb.org/anthology/D19-1200.pdf)  
 1.Von Mises-Fisher distribution
+- Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation [EMNLP19](https://www.aclweb.org/anthology/D19-1124.pdf)  
+1.Dirichlet
 
 #### Analysis
 - Why are Sequence-to-Sequence Models So Dull? Understanding the Low-Diversity Problem of Chatbots [EMNLP18 workshop](https://arxiv.org/pdf/1701.06548.pdf)
