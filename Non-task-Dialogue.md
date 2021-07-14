@@ -77,3 +77,9 @@ Approximate (weighted averaged embedding by softmax) Embedding to solve the disp
 1.involve profile into NRG (attention)
 - Steering Output Style and Topic in Neural Response Generation [EMNLP17](https://www.aclweb.org/anthology/D17-1228)
 - Personalizing Dialogue Agents: I have a dog, do you have pets too? [ACL18](http://aclweb.org/anthology/P18-1205) / [code & data](https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat)
+
+
+# Retrieval
+
+
+# Analysis & Common
