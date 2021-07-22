@@ -9,3 +9,8 @@ Some interesting findings, and more details in the paper:
 - REGULARIZING NEURAL NETWORKS BY PENALIZING CONFIDENT OUTPUT DISTRIBUTIONS [paper](https://arxiv.org/pdf/1701.06548.pdf)  
 1.Label smoothing;  
 2.Confidence penalty  
+
+
+# Overfitting
+- R-Drop: Regularized Dropout for Neural Networks [paper](https://arxiv.org/pdf/2106.14448.pdf)
+add KL divergence between the results from two times of dropout
