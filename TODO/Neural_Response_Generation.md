@@ -23,9 +23,23 @@
 - [Towards Quantifiable Dialogue Coherence Evaluation](https://arxiv.org/pdf/2106.00507.pdf)
 - [DynaEval: Unifying Turn and Dialogue Level Evaluation](https://arxiv.org/pdf/2106.01112.pdf)
 
-# Retrieval
+### Retrieval
 - [Dialogue Response Selection with Hierarchical Curriculum Learning](https://arxiv.org/pdf/2012.14756.pdf)
 
-# Analysis & Common
+### Analysis & Common
 - [I like fish, especially dolphins: Addressing Contradictions in Dialogue Modeling](https://arxiv.org/pdf/2012.13391.pdf)
 - [Semantic Representation for Dialogue Modeling](https://arxiv.org/pdf/2105.10188.pdf)
+
+---
+
+## EMNLP 2021
+
+### NRG (Neural Response Generation)
+- [Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems](https://arxiv.org/pdf/2109.04084.pdf)
+- MRF-Chat: Improving Dialogue with Markov Random Fields
+
+### Context
+- [Graph Based Network with Contextualized Representations of Turns in Dialogue](https://arxiv.org/pdf/2109.04008.pdf)
+
+### Structure / Semantic etc.
+- [DialogueCSE: Dialogue-based Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2109.12599.pdf)
